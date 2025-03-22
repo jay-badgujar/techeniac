@@ -45,7 +45,7 @@ cd math-quiz-game
    ```
 3. Create a `.env` file in the `server` folder and add:
    ```sh
-     From .env.example
+   From .env.example
    ```
 4. Start the backend server:
    ```sh
@@ -64,7 +64,7 @@ cd math-quiz-game
    npm install
    ```
 3. Create a `.env` file in the `client` folder and add:
-   ```env
+   ```sh
    From .env.example
    ```
 4. Start the frontend:
